@@ -8,7 +8,7 @@ Este es un proyecto de consola TypeScript para bases de programación.
 2. Asegúrate de tener Node.js y npm instalados en tu sistema.
 3. Ejecuta el siguiente comando para instalar las dependencias del proyecto:
 
-    npm install
+    `npm install`
 
 
 ## Uso
