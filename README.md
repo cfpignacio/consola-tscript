@@ -25,12 +25,6 @@ Puedes utilizar estos comandos en tu terminal con npm:
     npm run prod
     npm run dev
 
-## Dependencias
-
-- **nodemon**: 2.0.22
-- **ts-node**: 10.9.1
-- **typescript**: 5.1.3
-- **moment**: 2.29.4
 
 ## Contribución
 
